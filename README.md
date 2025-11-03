@@ -1,4 +1,4 @@
-# Hangman RL — Streamlit App
+# Hangman RL
 
 Train a probabilistic oracle + RL agent once, save artifacts, and serve an interactive Streamlit app that only loads the saved artifacts (no training per query).
 
