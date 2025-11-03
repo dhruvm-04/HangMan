@@ -37,7 +37,6 @@ Artifacts are required before running the app.
 ## 2) Run the Streamlit app
 From the project folder:
 ```
-cd "c:\Dhruv\PESU\Subjects\Sem 5\ML\hackman"
 streamlit run app.py
 ```
 Access the app at:
